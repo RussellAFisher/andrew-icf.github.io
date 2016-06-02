@@ -1,0 +1,12 @@
+var deckId;
+var dealerCards;
+var playerCards;
+var betAmount = 0;
+var total = 500;
+var cards = 0;
+var hitCard1;
+var hitCard2;
+var hitCard3;
+var hitVal1;
+var hitVal2;
+var hitVal3;
